@@ -1,2 +1,3 @@
 <?php
-//functions will be here
+
+require 'database.php';
